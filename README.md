@@ -14,7 +14,7 @@
 
 ### <p align="center">🧰 Technologies, Frameworks & Tools I Use / Used Professionally (At work)</p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
   </a>&nbsp;&nbsp;
@@ -51,7 +51,7 @@
 
 ### <p align="center">🚀 Other Technologies I Use in My Own Projects</p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
   </a>&nbsp;&nbsp;
