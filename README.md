@@ -12,7 +12,7 @@
 
 ---
 
-### <p align="center">🧰 Technologies, Frameworks & Tools I Use / Used Professionally (At work)</p>
+<h3 align="center">🧰 Technologies, Frameworks & Tools I Use / Used Professionally (At work)</h3>
 
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -49,7 +49,7 @@
 
 ---
 
-### <p align="center">🚀 Other Technologies I Use in My Own Projects</p>
+<h3 align="center">🚀 Other Technologies I Use in My Own Projects</h3>
 
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
