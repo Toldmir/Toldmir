@@ -36,6 +36,6 @@
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=toldmir&show_icons=true&theme=radical" alt="toldmir" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toldmir&show_icons=true&locale=en" alt="toldmir" />
 </p>
