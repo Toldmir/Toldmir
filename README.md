@@ -1,8 +1,8 @@
-<h1 align="left">Hi, I'm Kacper 🚀</h1>
+<h1 align="left">Hi, I'm Kacper</h1>
 <h3 align="left">Junior Full Stack Developer | PHP & Backend Focused</h3>
 
-- 💼 Currently working as a **Junior Full Stack Developer**
-- ⚙️ Focusing on: Clean code, Backend logic, and building functional Web Apps
+- Currently working as a **Junior Full Stack Developer**
+- Focusing on: Clean code, Backend logic, and building functional Web Apps
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kacper-pawlik-86b34b291" target="_blank" rel="noreferrer">
@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="left">🧰 Technologies, Frameworks & Tools I Use / Used Professionally (At work)</h3>
+<h3 align="left">Technologies, Frameworks & Tools I Use / Used Professionally (At work)</h3>
 
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -55,7 +55,7 @@
 
 ---
 
-<h3 align="left">🚀 Other Technologies I Use in My Own Projects</h3>
+<h3 align="left">Other Technologies I Use in My Own Projects</h3>
 
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
